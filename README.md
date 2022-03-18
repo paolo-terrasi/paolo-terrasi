@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @paolo-terrasi
+- 👀 I’m interested in automating tasks in order to reduce fatigue and frustration
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on various shell scripts
+- 📫 How to reach me: https://linkedin.com/in/paoloterrasi
