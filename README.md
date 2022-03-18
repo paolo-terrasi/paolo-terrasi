@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on various shell scripts
 - 📫 How to reach me: https://linkedin.com/in/paoloterrasi
+- 💼 Open positions: https://6river.com/jobs
